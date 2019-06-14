@@ -15,3 +15,7 @@ for get chat it
 https://api.telegram.org/bot<BotToken>/getUpdates
 
 @Botfather for register bot
+
+---------------------
+
+Created with 	&#10084; Afgan Khalilove and David Sitnikov 
