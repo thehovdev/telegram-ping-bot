@@ -18,4 +18,4 @@ https://api.telegram.org/bot<BotToken>/getUpdates
 
 ---------------------
 
-Created with 	&#10084; by Afgan Khalilove and David Sitnikov 
+Created with 	&#10084; by Afgan Khalilov and David Sitnikov 
